@@ -19,10 +19,16 @@ SQL Server, Azure SQL, CTEs, schema migrations, performance tuning
 
 ---
 
+## 🚀 Featured Projects
+
+- 🔧 [LaunchDarkly.NetCore.Demo](https://github.com/FrancisPeds/LaunchDarkly-NetCore-Demo)  
+  *A minimal .NET Web API demo that showcases how to implement LaunchDarkly feature flags using clean service abstraction and dependency injection.*
+
+---
+
 ## 🚧 What's Coming Soon
 
 I'm currently working on publishing:
-- 🔧 A sample project demonstrating feature flags using LaunchDarkly in .NET Core
 - 🛠️ Azure DevOps pipeline templates and deployment patterns
 - 🧱 A clean architecture .NET Core API demo
 - 📄 Tech spike writeups and design notes from real-world project experience
